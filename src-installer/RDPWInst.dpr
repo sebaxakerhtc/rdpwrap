@@ -617,7 +617,7 @@ end;
 
 function GitINIFile(var Content: String; INI_source: String): Boolean;
 const
-  DEFAULT_URL = 'https://raw.githubusercontent.com/sebaxakerhtc/rdpwrap.ini/master/rdpwrap.ini';
+  DEFAULT_URL = 'https://github.moeyy.xyz/https://raw.githubusercontent.com/loyejaotdiqr47123/rdpwrap/master/res/rdpwrap.ini';
 var
   NetHandle: HINTERNET;
   UrlHandle: HINTERNET;
